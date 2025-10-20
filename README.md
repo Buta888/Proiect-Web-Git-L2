@@ -11,7 +11,6 @@
 | left baz      | right baz     |
 
 ## I
-
-![photo](uyMe8v.jpg"Its photo.")
+![photo.](![Alt text]uyMe8v.jpg)
 
 
