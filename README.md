@@ -11,6 +11,6 @@
 | left baz      | right baz     |
 
 ## I
-![photo.](![Alt text]uyMe8v.jpg)
+![photo.]([Alt text]uyMe8v.jpg)
 
 
